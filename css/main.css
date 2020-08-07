@@ -1,0 +1,15 @@
+img.icon{
+    width: 30px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 4rem;
+    width: 100%;
+    text-align: center;
+}
+
+img#logo:hover{
+    width: 1200px;
+}
